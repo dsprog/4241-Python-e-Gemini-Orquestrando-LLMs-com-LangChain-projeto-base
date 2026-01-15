@@ -12,6 +12,8 @@ Neste projeto, utilizaremos LangChain como framework principal para orquestrar u
 
 ![](img/amostra.gif)
 
+[github do projeto](https://github.com/alura-cursos/4241-Python-e-Gemini-Orquestrando-LLMs-com-LangChain/blob/Aula-3/lang_chain.py)
+
 ## ✔️ Técnicas e tecnologias utilizadas
 
 As técnicas e tecnologias utilizadas pra isso são:
