@@ -11,8 +11,7 @@
 Neste projeto, utilizaremos LangChain como framework principal para orquestrar uma solução integrada de análise e organização de imagens enriquecidas com anotações inteligentes. O LangChain será empregado devido à sua capacidade de conectar e gerenciar fluxos complexos que combinam IA multimodal e modelos de linguagem, permitindo um desenvolvimento mais modular e escalável.
 
 ![](img/amostra.gif)
-
-[github do projeto](https://github.com/alura-cursos/4241-Python-e-Gemini-Orquestrando-LLMs-com-LangChain/blob/Aula-3/lang_chain.py)
+[Github do projeto da alura](https://github.com/alura-cursos/4241-Python-e-Gemini-Orquestrando-LLMs-com-LangChain/blob/Aula-3/lang_chain.py)
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
